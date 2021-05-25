@@ -1,10 +1,10 @@
 #
 
-(1) Import data files (phsyionet-data) into home directory of cygwin64/32
-
-(2) Download and install cygwin. Follow installtion guide on:
+(1) Download and install cygwin. Follow installtion guide on:
 (https://archive.physionet.org/physiotools/cygwin/)
 Make sure to install all the necessary packages provdied at the bottom of step 9!
+
+(2) Import data files (phsyionet-data) into home directory of cygwin64/32
 
 (3) Follow the steps provided in the README.md of this github: 
 (https://github.com/mondejar/WFDB-utils-and-others#3-using-ecgpuwave-to-detect-p-qrs-t-onoff-waves)
