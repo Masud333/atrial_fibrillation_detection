@@ -1,4 +1,4 @@
-# wfdb-python
+#
 
 (1) Import data files (phsyionet-data) into home directory of cygwin64/32
 
