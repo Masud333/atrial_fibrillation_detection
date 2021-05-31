@@ -20,7 +20,7 @@ Make sure to install all the necessary packages provdied at the bottom of step 9
 See also Testing.ipynb file for ideas on programming linux command in from jupyter notebook.
 OBS! Not all have been working, but it is possible to get some output. 
 
-(5) Output found in the root C-drive, where cygwin is installed: C:\cygwin64\home\username
+(5) Output files are found in the root C-drive, where cygwin is installed: C:\cygwin64\home\username
 
 (6) IF POSSIBLE: explore ecgpuwave command from the cygwin terminal.
 (https://physionet.org/content/ecgpuwave/1.3.4/)
