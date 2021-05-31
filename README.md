@@ -15,7 +15,7 @@ Make sure to install all the necessary packages provdied at the bottom of step 9
 
 (4) Run in cygwin terminal any of the commands 
 
-(example for reading record "04936")	----->	 rdann -r 04936 -f 0 -a atr -v > rdann/04936_atr.txt
+(example for reading record "04936.atr")	----->	 rdann -r 04936 -f 0 -a atr -v > rdann/04936_atr.txt
 
 See also Testing.ipynb file for ideas on programming linux command in from jupyter notebook.
 OBS! Not all have been working, but it is possible to get some output. 
