@@ -1,4 +1,8 @@
 #
+This repository contains a main file, "MIT-BIH Atrial Fibrillation DB (main).ipynb", which is the only file that needs to be run.
+
+
+### Obtional method, exploring different wave peaks in the ECG
 
 (1) Download and install cygwin. Follow installtion guide on:
 (https://archive.physionet.org/physiotools/cygwin/)
