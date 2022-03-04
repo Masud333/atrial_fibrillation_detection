@@ -1,0 +1,213 @@
+<!--#set var="TITLE" value="Long-Term AF Database Reference Annotations by MedicAlgorithmics"-->
+<!--#include virtual="/head.shtml"-->
+
+<h2>Tables of beats and rhythms</h2>
+
+<p>
+These tables are derived from the <tt>atr</tt> (reference) annotations
+of the Long-Term AF Database.
+
+<p>
+The beat table shows the number of beats of each type in each record.
+The rhythm table shows the number of episodes (N) and the total duration
+of each rhythm observed in each record in the format "N (hh:mm:ss)".
+See <a href="/physiobank/annotations.shtml">PhysioBank Annotations</a>
+for definitions of the beat and rhythm types (the column headings in
+the tables below).
+
+<br>
+<a name="beats"><h3>Table of beat types</h3></a>
+<br>
+
+<center>
+<table border=1>
+<tr><td align="right" width="10%"><b>Record</b></td><td align="right" width="10%"><b>N</b></td><td align="right" width="10%"><b>V</b></td><td align="right" width="10%"><b>A</b></td><td align="right" width="10%"><b>Q</b></td><td align="right" width="10%"><b>MISSB</b><sup><a href="#MISSB">*</sup></td></tr>
+<tr><td align="right">00</td><td align="right">105416</td><td align="right">778</td><td align="right">53</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">01</td><td align="right">84957</td><td align="right">607</td><td align="right">4982</td><td align="right">-</td><td align="right">30</td></tr>
+<tr><td align="right">03</td><td align="right">78648</td><td align="right">96</td><td align="right">2213</td><td align="right">-</td><td align="right">2</td></tr>
+<tr><td align="right">05</td><td align="right">110925</td><td align="right">4</td><td align="right">1993</td><td align="right">7</td><td align="right">7</td></tr>
+<tr><td align="right">06</td><td align="right">100153</td><td align="right">5</td><td align="right">4505</td><td align="right">-</td><td align="right">181</td></tr>
+<tr><td align="right">07</td><td align="right">100679</td><td align="right">6741</td><td align="right">1199</td><td align="right">-</td><td align="right">3</td></tr>
+<tr><td align="right">08</td><td align="right">106872</td><td align="right">272</td><td align="right">1182</td><td align="right">1</td><td align="right">1</td></tr>
+<tr><td align="right">10</td><td align="right">105519</td><td align="right">279</td><td align="right">714</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">11</td><td align="right">102489</td><td align="right">107</td><td align="right">-</td><td align="right">-</td><td align="right">2</td></tr>
+<tr><td align="right">12</td><td align="right">116650</td><td align="right">418</td><td align="right">-</td><td align="right">75</td><td align="right">1</td></tr>
+<tr><td align="right">13</td><td align="right">68236</td><td align="right">235</td><td align="right">498</td><td align="right">-</td><td align="right">140</td></tr>
+<tr><td align="right">15</td><td align="right">85087</td><td align="right">199</td><td align="right">68</td><td align="right">-</td><td align="right">306</td></tr>
+<tr><td align="right">16</td><td align="right">121308</td><td align="right">1876</td><td align="right">693</td><td align="right">3</td><td align="right">1</td></tr>
+<tr><td align="right">17</td><td align="right">138027</td><td align="right">32</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">18</td><td align="right">141470</td><td align="right">42</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">19</td><td align="right">104439</td><td align="right">4</td><td align="right">3455</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">20</td><td align="right">107983</td><td align="right">12</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">21</td><td align="right">79790</td><td align="right">1810</td><td align="right">-</td><td align="right">-</td><td align="right">577</td></tr>
+<tr><td align="right">22</td><td align="right">95430</td><td align="right">16651</td><td align="right">12677</td><td align="right">-</td><td align="right">17</td></tr>
+<tr><td align="right">23</td><td align="right">81870</td><td align="right">2407</td><td align="right">15677</td><td align="right">-</td><td align="right">3</td></tr>
+<tr><td align="right">24</td><td align="right">94465</td><td align="right">18</td><td align="right">1356</td><td align="right">-</td><td align="right">17</td></tr>
+<tr><td align="right">25</td><td align="right">104065</td><td align="right">5899</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">26</td><td align="right">68396</td><td align="right">200</td><td align="right">341</td><td align="right">-</td><td align="right">9</td></tr>
+<tr><td align="right">28</td><td align="right">96525</td><td align="right">1046</td><td align="right">428</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">30</td><td align="right">29389</td><td align="right">42</td><td align="right">1730</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">32</td><td align="right">86495</td><td align="right">149</td><td align="right">2551</td><td align="right">-</td><td align="right">2</td></tr>
+<tr><td align="right">33</td><td align="right">113231</td><td align="right">7923</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">34</td><td align="right">132424</td><td align="right">2742</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">35</td><td align="right">88585</td><td align="right">19</td><td align="right">254</td><td align="right">-</td><td align="right">13</td></tr>
+<tr><td align="right">37</td><td align="right">61606</td><td align="right">475</td><td align="right">2562</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">38</td><td align="right">80896</td><td align="right">129</td><td align="right">303</td><td align="right">-</td><td align="right">2</td></tr>
+<tr><td align="right">39</td><td align="right">110259</td><td align="right">23</td><td align="right">3647</td><td align="right">-</td><td align="right">4</td></tr>
+<tr><td align="right">42</td><td align="right">111901</td><td align="right">192</td><td align="right">2103</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">43</td><td align="right">104462</td><td align="right">2567</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">44</td><td align="right">143643</td><td align="right">3803</td><td align="right">-</td><td align="right">-</td><td align="right">7</td></tr>
+<tr><td align="right">45</td><td align="right">95113</td><td align="right">306</td><td align="right">173</td><td align="right">2</td><td align="right">1</td></tr>
+<tr><td align="right">47</td><td align="right">83444</td><td align="right">344</td><td align="right">5370</td><td align="right">-</td><td align="right">2</td></tr>
+<tr><td align="right">48</td><td align="right">146116</td><td align="right">645</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">49</td><td align="right">79415</td><td align="right">293</td><td align="right">-</td><td align="right">-</td><td align="right">183</td></tr>
+<tr><td align="right">51</td><td align="right">86967</td><td align="right">5247</td><td align="right">2027</td><td align="right">-</td><td align="right">184</td></tr>
+<tr><td align="right">53</td><td align="right">46803</td><td align="right">8</td><td align="right">684</td><td align="right">-</td><td align="right">747</td></tr>
+<tr><td align="right">54</td><td align="right">118187</td><td align="right">11</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">55</td><td align="right">105478</td><td align="right">26</td><td align="right">1362</td><td align="right">-</td><td align="right">2</td></tr>
+<tr><td align="right">56</td><td align="right">131784</td><td align="right">208</td><td align="right">138</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">58</td><td align="right">92785</td><td align="right">863</td><td align="right">14590</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">60</td><td align="right">116503</td><td align="right">312</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">62</td><td align="right">119393</td><td align="right">4013</td><td align="right">-</td><td align="right">-</td><td align="right">135</td></tr>
+<tr><td align="right">64</td><td align="right">119466</td><td align="right">312</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">65</td><td align="right">95903</td><td align="right">193</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">68</td><td align="right">183691</td><td align="right">1106</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">69</td><td align="right">140526</td><td align="right">997</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">70</td><td align="right">127638</td><td align="right">697</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">71</td><td align="right">124789</td><td align="right">412</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">72</td><td align="right">141864</td><td align="right">1947</td><td align="right">387</td><td align="right">-</td><td align="right">40</td></tr>
+<tr><td align="right">74</td><td align="right">88634</td><td align="right">3004</td><td align="right">146</td><td align="right">-</td><td align="right">1226</td></tr>
+<tr><td align="right">75</td><td align="right">126253</td><td align="right">518</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">100</td><td align="right">82614</td><td align="right">2723</td><td align="right">6090</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">101</td><td align="right">90319</td><td align="right">2996</td><td align="right">4850</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">102</td><td align="right">114102</td><td align="right">38</td><td align="right">243</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">103</td><td align="right">127444</td><td align="right">2166</td><td align="right">22046</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">104</td><td align="right">83550</td><td align="right">3</td><td align="right">601</td><td align="right">-</td><td align="right">2</td></tr>
+<tr><td align="right">105</td><td align="right">68883</td><td align="right">45</td><td align="right">70</td><td align="right">1</td><td align="right">379</td></tr>
+<tr><td align="right">110</td><td align="right">101827</td><td align="right">13</td><td align="right">3453</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">111</td><td align="right">100583</td><td align="right">44</td><td align="right">1883</td><td align="right">-</td><td align="right">2</td></tr>
+<tr><td align="right">112</td><td align="right">115263</td><td align="right">24</td><td align="right">874</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">113</td><td align="right">112549</td><td align="right">28</td><td align="right">199</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">114</td><td align="right">110181</td><td align="right">11</td><td align="right">2077</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">115</td><td align="right">108021</td><td align="right">28</td><td align="right">920</td><td align="right">-</td><td align="right">2</td></tr>
+<tr><td align="right">116</td><td align="right">99617</td><td align="right">7</td><td align="right">12136</td><td align="right">-</td><td align="right">2</td></tr>
+<tr><td align="right">117</td><td align="right">99533</td><td align="right">527</td><td align="right">12</td><td align="right">-</td><td align="right">7</td></tr>
+<tr><td align="right">118</td><td align="right">124817</td><td align="right">119</td><td align="right">216</td><td align="right">-</td><td align="right">7</td></tr>
+<tr><td align="right">119</td><td align="right">96097</td><td align="right">956</td><td align="right">1701</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">120</td><td align="right">109043</td><td align="right">14</td><td align="right">1382</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">121</td><td align="right">69009</td><td align="right">5778</td><td align="right">2952</td><td align="right">-</td><td align="right">212</td></tr>
+<tr><td align="right">122</td><td align="right">78127</td><td align="right">10016</td><td align="right">564</td><td align="right">-</td><td align="right">3</td></tr>
+<tr><td align="right">200</td><td align="right">77769</td><td align="right">4846</td><td align="right">2</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">201</td><td align="right">85934</td><td align="right">89</td><td align="right">-</td><td align="right">-</td><td align="right">1443</td></tr>
+<tr><td align="right">202</td><td align="right">141501</td><td align="right">4122</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">203</td><td align="right">73198</td><td align="right">641</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">204</td><td align="right">118880</td><td align="right">17240</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">205</td><td align="right">116473</td><td align="right">27</td><td align="right">-</td><td align="right">-</td><td align="right">1</td></tr>
+<tr><td align="right">206</td><td align="right">121059</td><td align="right">351</td><td align="right">-</td><td align="right">-</td><td align="right">2</td></tr>
+<tr><td align="right">207</td><td align="right">130780</td><td align="right">479</td><td align="right">-</td><td align="right">-</td><td align="right">3</td></tr>
+<tr><td align="right">208</td><td align="right">120658</td><td align="right">84</td><td align="right">-</td><td align="right">-</td><td align="right">8</td></tr>
+</table>
+</center>
+
+<a name="MISSB">&nbsp;</a>
+<p><sup>*</sup></a> MISSB = missed beat (an annotation
+marking the time when a beat would be expected but was not observed).
+These markers are coded as NOTE (comment) annotations, with the
+string "MISSB" in the <tt>aux</tt> field.
+
+<br>
+<a name="rhythms"><h3>Table of rhythms</h3></a>
+<br>
+
+<center>
+<table border=1>
+<tr><td align="right" width="8%"><b>Record</b></td><td align="right" width="8%"><b>N</b></td><td align="right" width="8%"><b>SVTA</b></td><td align="right" width="8%"><b>VT</b></td><td align="right" width="8%"><b>AFIB</b></td><td align="right" width="8%"><b>B</b></td><td align="right" width="8%"><b>T</b></td><td align="right" width="8%"><b>IVR</b></td><td align="right" width="8%"><b>AB</b></td><td align="right" width="8%"><b>SBR</b></td></tr>
+<tr><td align="right">00</td><td align="right">5 (18:31:31)</td><td align="right">-</td><td align="right">40 (0:42)</td><td align="right">44 (2:14:54)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">01</td><td align="right">457 (3:38:53)</td><td align="right">25 (0:58)</td><td align="right">-</td><td align="right">53 (16:13:06)</td><td align="right">16 (1:46)</td><td align="right">6 (0:53)</td><td align="right">-</td><td align="right">293 (27:36)</td><td align="right">83 (10:02)</td></tr>
+<tr><td align="right">03</td><td align="right">1648 (14:56:49)</td><td align="right">11 (0:32)</td><td align="right">2 (0:03)</td><td align="right">22 (1:20:03)</td><td align="right">2 (0:13)</td><td align="right">1 (0:14)</td><td align="right">-</td><td align="right">34 (4:53)</td><td align="right">1587 (7:52:53)</td></tr>
+<tr><td align="right">05</td><td align="right">14 (24:17:02)</td><td align="right">2 (0:05)</td><td align="right">-</td><td align="right">3 (0:40)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">8 (0:29)</td><td align="right">-</td></tr>
+<tr><td align="right">06</td><td align="right">48 (24:22:27)</td><td align="right">16 (0:29)</td><td align="right">-</td><td align="right">19 (45:04)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">11 (0:44)</td><td align="right">1 (0:01)</td></tr>
+<tr><td align="right">07</td><td align="right">499 (21:25:26)</td><td align="right">28 (1:21)</td><td align="right">-</td><td align="right">8 (3:24:47)</td><td align="right">416 (33:44)</td><td align="right">1 (0:07)</td><td align="right">-</td><td align="right">51 (4:27)</td><td align="right">-</td></tr>
+<tr><td align="right">08</td><td align="right">20 (25:42:48)</td><td align="right">13 (0:17)</td><td align="right">-</td><td align="right">4 (1:38)</td><td align="right">1 (0:04)</td><td align="right">-</td><td align="right">-</td><td align="right">1 (0:04)</td><td align="right">-</td></tr>
+<tr><td align="right">10</td><td align="right">148 (8:23:01)</td><td align="right">68 (3:35)</td><td align="right">-</td><td align="right">80 (17:07:44)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (0:05)</td><td align="right">-</td></tr>
+<tr><td align="right">11</td><td align="right">-</td><td align="right">-</td><td align="right">1 (0:02)</td><td align="right">2 (26:03:09)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">12</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (24:05:39)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">13</td><td align="right">193 (10:08:00)</td><td align="right">12 (0:34)</td><td align="right">-</td><td align="right">2 (4:56:14)</td><td align="right">3 (0:20)</td><td align="right">1 (0:13)</td><td align="right">-</td><td align="right">12 (1:56)</td><td align="right">172 (4:48:40)</td></tr>
+<tr><td align="right">15</td><td align="right">4 (0:16)</td><td align="right">-</td><td align="right">-</td><td align="right">801 (23:17:57)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">802 (1:11:39)</td></tr>
+<tr><td align="right">16</td><td align="right">117 (23:14:58)</td><td align="right">4 (0:17)</td><td align="right">-</td><td align="right">37 (19:57)</td><td align="right">7 (1:39)</td><td align="right">16 (1:19)</td><td align="right">-</td><td align="right">39 (8:15)</td><td align="right">64 (12:31)</td></tr>
+<tr><td align="right">17</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (24:55:10)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">18</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (24:59:16)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">19</td><td align="right">83 (23:49:19)</td><td align="right">21 (0:52)</td><td align="right">-</td><td align="right">9 (5:03)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">46 (4:05)</td><td align="right">6 (0:23)</td></tr>
+<tr><td align="right">20</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">2 (24:19:08)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (0:03)</td></tr>
+<tr><td align="right">21</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (20:56:25)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">22</td><td align="right">1636 (22:37:36)</td><td align="right">36 (1:35)</td><td align="right">85 (1:55)</td><td align="right">102 (23:58)</td><td align="right">996 (1:18:11)</td><td align="right">282 (27:28)</td><td align="right">-</td><td align="right">188 (21:01)</td><td align="right">107 (8:47)</td></tr>
+<tr><td align="right">23</td><td align="right">1194 (16:22:18)</td><td align="right">184 (8:00)</td><td align="right">1 (0:02)</td><td align="right">57 (5:59:42)</td><td align="right">172 (34:16)</td><td align="right">6 (0:49)</td><td align="right">-</td><td align="right">801 (2:22:22)</td><td align="right">122 (10:25)</td></tr>
+<tr><td align="right">24</td><td align="right">784 (21:58:46)</td><td align="right">9 (0:26)</td><td align="right">-</td><td align="right">2 (1:47)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">16 (2:33)</td><td align="right">759 (1:53:36)</td></tr>
+<tr><td align="right">25</td><td align="right">-</td><td align="right">-</td><td align="right">212 (7:11)</td><td align="right">346 (18:01:49)</td><td align="right">-</td><td align="right">-</td><td align="right">133 (7:19)</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">26</td><td align="right">93 (1:02:02)</td><td align="right">4 (0:13)</td><td align="right">-</td><td align="right">177 (16:43:49)</td><td align="right">-</td><td align="right">9 (1:18)</td><td align="right">-</td><td align="right">1 (0:06)</td><td align="right">196 (25:25)</td></tr>
+<tr><td align="right">28</td><td align="right">271 (15:43:05)</td><td align="right">29 (1:14)</td><td align="right">-</td><td align="right">106 (4:43:36)</td><td align="right">11 (2:26)</td><td align="right">1 (0:11)</td><td align="right">-</td><td align="right">15 (2:39)</td><td align="right">161 (19:30)</td></tr>
+<tr><td align="right">30</td><td align="right">14 (6:06:41)</td><td align="right">8 (0:14)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">5 (0:26)</td><td align="right">-</td></tr>
+<tr><td align="right">32</td><td align="right">541 (19:28:40)</td><td align="right">28 (1:14)</td><td align="right">2 (0:04)</td><td align="right">361 (36:26)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">174 (17:58)</td><td align="right">-</td></tr>
+<tr><td align="right">33</td><td align="right">-</td><td align="right">-</td><td align="right">23 (0:38)</td><td align="right">120 (24:09:47)</td><td align="right">55 (4:29)</td><td align="right">41 (9:31)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">34</td><td align="right">-</td><td align="right">-</td><td align="right">3 (0:06)</td><td align="right">5 (24:32:53)</td><td align="right">-</td><td align="right">1 (0:07)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">35</td><td align="right">147 (19:11:21)</td><td align="right">5 (0:18)</td><td align="right">-</td><td align="right">7 (3:52:13)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (0:12)</td><td align="right">135 (1:17:08)</td></tr>
+<tr><td align="right">37</td><td align="right">1447 (15:18:23)</td><td align="right">38 (3:16)</td><td align="right">-</td><td align="right">4 (1:29)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">56 (6:30)</td><td align="right">1392 (4:25:20)</td></tr>
+<tr><td align="right">38</td><td align="right">1236 (18:28:33)</td><td align="right">3 (0:10)</td><td align="right">-</td><td align="right">1 (25:41)</td><td align="right">1 (0:05)</td><td align="right">-</td><td align="right">2 (0:16)</td><td align="right">-</td><td align="right">1232 (5:27:51)</td></tr>
+<tr><td align="right">39</td><td align="right">78 (3:21:11)</td><td align="right">6 (0:50)</td><td align="right">-</td><td align="right">141 (21:26:04)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">28 (2:59)</td><td align="right">56 (8:12)</td></tr>
+<tr><td align="right">42</td><td align="right">56 (15:01:09)</td><td align="right">39 (11:32)</td><td align="right">3 (0:04)</td><td align="right">122 (5:38:42)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">30 (2:32)</td><td align="right">-</td></tr>
+<tr><td align="right">43</td><td align="right">-</td><td align="right">-</td><td align="right">2 (0:03)</td><td align="right">3 (25:35:32)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">44</td><td align="right">-</td><td align="right">-</td><td align="right">3 (0:04)</td><td align="right">4 (25:22:22)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">45</td><td align="right">277 (22:35:48)</td><td align="right">5 (0:11)</td><td align="right">-</td><td align="right">82 (2:41:01)</td><td align="right">3 (0:38)</td><td align="right">-</td><td align="right">-</td><td align="right">1 (0:04)</td><td align="right">191 (27:16)</td></tr>
+<tr><td align="right">47</td><td align="right">882 (21:25:50)</td><td align="right">18 (6:11)</td><td align="right">9 (0:12)</td><td align="right">4 (1:05)</td><td align="right">5 (0:34)</td><td align="right">8 (1:30)</td><td align="right">-</td><td align="right">437 (1:04:41)</td><td align="right">417 (1:49:24)</td></tr>
+<tr><td align="right">48</td><td align="right">-</td><td align="right">-</td><td align="right">12 (0:13)</td><td align="right">13 (23:59:23)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">49</td><td align="right">-</td><td align="right">-</td><td align="right">5 (0:20)</td><td align="right">7 (23:58:38)</td><td align="right">-</td><td align="right">-</td><td align="right">1 (0:05)</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">51</td><td align="right">348 (22:22:04)</td><td align="right">5 (0:10)</td><td align="right">-</td><td align="right">68 (1:26:53)</td><td align="right">39 (3:16)</td><td align="right">14 (1:28)</td><td align="right">-</td><td align="right">35 (3:13)</td><td align="right">186 (15:33)</td></tr>
+<tr><td align="right">53</td><td align="right">339 (52:49)</td><td align="right">1 (0:02)</td><td align="right">-</td><td align="right">448 (2:58:48)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">25 (4:53)</td><td align="right">714 (15:43:11)</td></tr>
+<tr><td align="right">54</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (24:59:03)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">55</td><td align="right">22 (21:33:46)</td><td align="right">4 (0:11)</td><td align="right">-</td><td align="right">12 (4:02:41)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">5 (0:28)</td><td align="right">-</td></tr>
+<tr><td align="right">56</td><td align="right">4 (15:18:16)</td><td align="right">-</td><td align="right">1 (0:02)</td><td align="right">1 (8:46:36)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (0:06)</td><td align="right">-</td></tr>
+<tr><td align="right">58</td><td align="right">928 (14:59:38)</td><td align="right">153 (49:00)</td><td align="right">-</td><td align="right">12 (6:16:52)</td><td align="right">3 (0:11)</td><td align="right">7 (0:52)</td><td align="right">-</td><td align="right">741 (1:48:20)</td><td align="right">22 (1:43)</td></tr>
+<tr><td align="right">60</td><td align="right">-</td><td align="right">-</td><td align="right">1 (0:02)</td><td align="right">2 (22:19:51)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">62</td><td align="right">-</td><td align="right">-</td><td align="right">8 (0:10)</td><td align="right">41 (24:47:28)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">32 (2:02)</td></tr>
+<tr><td align="right">64</td><td align="right">-</td><td align="right">-</td><td align="right">1 (0:02)</td><td align="right">1 (5:42:33)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">65</td><td align="right">-</td><td align="right">-</td><td align="right">1 (0:02)</td><td align="right">2 (25:44:39)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">68</td><td align="right">-</td><td align="right">-</td><td align="right">5 (0:06)</td><td align="right">6 (23:55:35)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">69</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (23:40:11)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">70</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (26:05:15)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">71</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (24:02:05)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">72</td><td align="right">72 (3:56:45)</td><td align="right">5 (0:13)</td><td align="right">1 (0:02)</td><td align="right">29 (20:08:31)</td><td align="right">41 (8:25)</td><td align="right">5 (0:46)</td><td align="right">-</td><td align="right">2 (0:52)</td><td align="right">4 (0:39)</td></tr>
+<tr><td align="right">74</td><td align="right">11 (0:29)</td><td align="right">-</td><td align="right">2 (0:03)</td><td align="right">1044 (23:32:16)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (0:09)</td><td align="right">1043 (1:44:37)</td></tr>
+<tr><td align="right">75</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (20:48:17)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">100</td><td align="right">839 (21:35:34)</td><td align="right">21 (0:45)</td><td align="right">1 (0:03)</td><td align="right">659 (1:53:30)</td><td align="right">98 (9:41)</td><td align="right">24 (2:54)</td><td align="right">-</td><td align="right">72 (5:45)</td><td align="right">4 (0:19)</td></tr>
+<tr><td align="right">101</td><td align="right">675 (19:47:36)</td><td align="right">221 (8:56)</td><td align="right">-</td><td align="right">147 (3:20:54)</td><td align="right">153 (16:09)</td><td align="right">44 (5:52)</td><td align="right">-</td><td align="right">122 (18:21)</td><td align="right">5 (0:41)</td></tr>
+<tr><td align="right">102</td><td align="right">46 (23:07:36)</td><td align="right">2 (0:03)</td><td align="right">-</td><td align="right">43 (51:37)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">103</td><td align="right">2095 (9:37:09)</td><td align="right">1369 (53:47)</td><td align="right">1 (0:02)</td><td align="right">1 (12:26:55)</td><td align="right">8 (0:30)</td><td align="right">2 (0:10)</td><td align="right">-</td><td align="right">824 (1:00:45)</td><td align="right">-</td></tr>
+<tr><td align="right">104</td><td align="right">29 (17:51:43)</td><td align="right">10 (0:18)</td><td align="right">-</td><td align="right">16 (24:01)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">3 (0:11)</td><td align="right">-</td></tr>
+<tr><td align="right">105</td><td align="right">398 (13:51:55)</td><td align="right">1 (0:03)</td><td align="right">-</td><td align="right">96 (5:11:07)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (0:11)</td><td align="right">301 (1:42:58)</td></tr>
+<tr><td align="right">110</td><td align="right">84 (22:26:20)</td><td align="right">1 (0:02)</td><td align="right">-</td><td align="right">22 (1:09:57)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">60 (11:54)</td><td align="right">-</td></tr>
+<tr><td align="right">111</td><td align="right">52 (15:19:46)</td><td align="right">15 (0:43)</td><td align="right">-</td><td align="right">26 (8:26:24)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">21 (8:37)</td><td align="right">-</td></tr>
+<tr><td align="right">112</td><td align="right">1055 (13:07:24)</td><td align="right">-</td><td align="right">-</td><td align="right">1042 (10:49:36)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">7 (0:40)</td><td align="right">22 (1:20)</td></tr>
+<tr><td align="right">113</td><td align="right">19 (21:39:33)</td><td align="right">-</td><td align="right">-</td><td align="right">2 (1:58:10)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">16 (1:12)</td><td align="right">-</td></tr>
+<tr><td align="right">114</td><td align="right">132 (23:35:38)</td><td align="right">35 (1:02)</td><td align="right">-</td><td align="right">30 (12:47)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">76 (10:05)</td><td align="right">-</td></tr>
+<tr><td align="right">115</td><td align="right">214 (3:25:19)</td><td align="right">19 (0:47)</td><td align="right">-</td><td align="right">175 (20:15:32)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">41 (4:50)</td><td align="right">2 (0:07)</td></tr>
+<tr><td align="right">116</td><td align="right">752 (22:29:29)</td><td align="right">649 (32:37)</td><td align="right">-</td><td align="right">25 (24:09)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">86 (11:37)</td><td align="right">-</td></tr>
+<tr><td align="right">117</td><td align="right">4 (14:47:19)</td><td align="right">-</td><td align="right">1 (0:01)</td><td align="right">5 (9:11:35)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">118</td><td align="right">7 (19:34:24)</td><td align="right">5 (0:10)</td><td align="right">1 (0:02)</td><td align="right">1 (4:11:33)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">119</td><td align="right">340 (20:50:43)</td><td align="right">6 (0:16)</td><td align="right">37 (0:50)</td><td align="right">87 (2:16:45)</td><td align="right">-</td><td align="right">2 (0:13)</td><td align="right">-</td><td align="right">52 (6:45)</td><td align="right">238 (28:50)</td></tr>
+<tr><td align="right">120</td><td align="right">53 (23:31:17)</td><td align="right">15 (0:42)</td><td align="right">-</td><td align="right">37 (17:33)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">2 (0:11)</td><td align="right">-</td></tr>
+<tr><td align="right">121</td><td align="right">1335 (11:58:04)</td><td align="right">116 (5:19)</td><td align="right">2 (0:03)</td><td align="right">111 (3:14:08)</td><td align="right">298 (49:04)</td><td align="right">124 (21:55)</td><td align="right">-</td><td align="right">23 (3:19)</td><td align="right">748 (4:06:28)</td></tr>
+<tr><td align="right">122</td><td align="right">1078 (13:39:05)</td><td align="right">3 (0:05)</td><td align="right">-</td><td align="right">16 (8:43:01)</td><td align="right">368 (34:33)</td><td align="right">188 (24:33)</td><td align="right">-</td><td align="right">7 (0:32)</td><td align="right">514 (36:47)</td></tr>
+<tr><td align="right">200</td><td align="right">11 (1:14)</td><td align="right">-</td><td align="right">5 (0:09)</td><td align="right">19 (23:50:26)</td><td align="right">-</td><td align="right">2 (0:15)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">201</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">7 (23:58:08)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">6 (0:31)</td></tr>
+<tr><td align="right">202</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (23:59:51)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">203</td><td align="right">-</td><td align="right">-</td><td align="right">4 (0:19)</td><td align="right">6 (18:09:04)</td><td align="right">-</td><td align="right">-</td><td align="right">1 (0:03)</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">204</td><td align="right">-</td><td align="right">-</td><td align="right">333 (9:56)</td><td align="right">334 (20:35:58)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">205</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (23:49:35)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">206</td><td align="right">-</td><td align="right">-</td><td align="right">4 (0:05)</td><td align="right">6 (20:47:16)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (0:03)</td></tr>
+<tr><td align="right">207</td><td align="right">-</td><td align="right">-</td><td align="right">16 (0:42)</td><td align="right">17 (23:49:22)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+<tr><td align="right">208</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">1 (23:55:16)</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td><td align="right">-</td></tr>
+</table>
+</center>
+</div>
+
+<!--#include virtual="/footer.shtml"-->
